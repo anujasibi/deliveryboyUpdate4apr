@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250348314297",
+    "firebase_url": "https://deliveryboy-19573.firebaseio.com",
+    "project_id": "deliveryboy-19573",
+    "storage_bucket": "deliveryboy-19573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250348314297:android:8f2f20ff460c6996914568",
+        "android_client_info": {
+          "package_name": "com.example.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250348314297-bb7nrkf78kfohvck0kmglt1g0pvjkth3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deliveryboy",
+            "certificate_hash": "d4a00eee469eb92e8e93d297b1d9fe48f7453cd8"
+          }
+        },
+        {
+          "client_id": "250348314297-tvqd9hg52ib99mie6utevfgu74igidgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLUElTb4ce3Ij_h2INkWIhb9sps2cXIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250348314297-tvqd9hg52ib99mie6utevfgu74igidgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
